@@ -20,7 +20,7 @@ function validate(callback){
 }
 
 function loginfn(){
-    window.location.href = "./index.html";
+    window.location.href = "./home.html";
 }
 
 // --------error message reset----------//
