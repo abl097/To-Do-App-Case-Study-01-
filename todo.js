@@ -34,7 +34,7 @@ function taskDone(){
                         }
                     }
                     if (done == 5) {
-                        resolve(alert("Congrats 5 Tasks have been successfully completed."));
+                        resolve(alert("Congrats 5 Tasks have been Successfully Completed."));
                     }
                 }, 50);
         })
